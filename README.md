@@ -8,5 +8,5 @@ University project • 2015 - Introduzione all'informatica con Python - BSc exce
 Run `nim_game_commentator.py`
 
 ## Screenshots
-<img src="https://github.com/noranta4/NIMgame-commentator/blob/master/img/menu.PNG" width="400" height="790">
+<img src="https://github.com/noranta4/NIMgame-commentator/blob/master/img/menu.PNG" width="50%" height="50%">
  ![menu](https://github.com/noranta4/NIMgame-commentator/blob/master/img/menu.PNG?raw=true)
