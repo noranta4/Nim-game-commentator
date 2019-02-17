@@ -1,5 +1,5 @@
 # NIMgame-commentator
-A simple python project with GUI. Multiplayer NIM game with comments (in italian) about the state of the match.
+A simple python project with GUI. Multiplayer Nim game with comments (in italian) about the state of the match.
 
 University project • 2015 - Introduzione all'informatica con Python - BSc excellence degree in Science and Technology, SSAS, II year
 
