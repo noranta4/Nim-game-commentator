@@ -9,4 +9,4 @@ Run `nim_game_commentator.py`
 
 ## Screenshots
 
-![menu](https://github.com/noranta4/NIMgame-commentator/blob/master/img/menu.PNG?raw=true&s=10) ![menu](https://github.com/noranta4/NIMgame-commentator/blob/master/img/menu.PNG?raw=true)
+![menu](https://github.com/noranta4/NIMgame-commentator/blob/master/img/menu.PNG?raw=true&s=0.5) ![menu](https://github.com/noranta4/NIMgame-commentator/blob/master/img/menu.PNG?raw=true)
